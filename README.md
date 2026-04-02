@@ -1,6 +1,7 @@
 # oss-audit--24BSA10290-
 Open Source Audit: Apache HTTP Server
-Student Name: [Your Name]
+
+Student Name: Ananya Sinha
 
 Registration Number: 24BSA10290
 
